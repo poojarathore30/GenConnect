@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://ana:ana@cluster0.agywt.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "secret",
+    "githubToken": "<yoursecrectaccesstoken>"
+  }
+  
